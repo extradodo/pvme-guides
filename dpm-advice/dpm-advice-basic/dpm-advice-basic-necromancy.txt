@@ -1,0 +1,207 @@
+> __**Introduction**__
+.tag:intro
+**Prelude**: Learning PvM is a journey from tackling the basic concepts of DPM to mastering the nuances and techniques at the highest level. DPM-Advice-Basic focuses on the fundamental concepts to dealing efficient DPM to match the level of our basic boss guides. If you're deciding on a style, curious about necromancy, and or would like to revisit the fundamentals then this guide is for you!
+
+This guide will go over abilities, incantations, weapons & gear, approaching a boss, and refining mistakes.
+
+> **__Important note:__ Many Necromancy abilities and incantations are unlocked from the Talent Tree, which is a reward for rituals and killing monsters around Gielinor. Parts of this guide consider Tier 6 as unlocked (requiring 8,500 souls and level 80 Necromancy).** Read more about the [Necromancy Talent Tree](https://runescape.wiki/w/Talents#Talent_tree).
+
+**Navigating: **To navigate this channel quickly either use the Table of Contents found in the pinned messages or quickly scroll through the guide to the desired section title.
+
+.
+.img:https://img.pvme.io/images/xibEOmJ.png
+.
+> __**Ability Themes**__
+.tag:abilitythemes
+.
+Necromancy abilities vary in their themes. Some are strong individually, some work in combination with others and some function as powerful utilities. Currently, they can be interpreted into four different classes with three different damage types.
+
+.
+**__Classes: __**
+⬥ **Power**: Deal high damage.
+⬥ **Auxiliary**: Deal equal or less damage and may enhance other abilities.
+⬥ **Utility**: Provide low or non-damaging utility buffs.
+⬥ **Subpar**: Lack any good use cases. Generally avoid using these unless using specific rotations theorycrafted in advance.
+
+.
+**__Damage Types:__**
+⬥ **Instant**: Deal damage immediately
+    • *Examples:* <:necroauto:1137809137401602109> <:touchofdeath:1137809175980810380> <:fingerofdeath:1137809115066937414> <:soulsap:1137809140476031057> <:soulstrike:1137809142376058910> <:spectralscythe:1137809145706319892> <:volleyofsouls:1137809182364540989>
+
+⬥ **Channeled**: Deal channeled damage.
+    • Channels lock the player into using the ability.
+    • Can be cancelled early, losing the later hits of the ability.
+    • *Examples:* <:bloodsiphon:1137809187485782149>
+
+⬥ **DoT (damage over time)**: a debuff applied to deal damage over time.
+    • Subsequent hits are still boosted by <:mani:643505153709965322> <:mahj:643148943856762890> <:Vuln:537349530551582720>
+        ⬩ Refer to the command `!dot` for more information.
+        ⬩ Full list here: [Damage over Time](https://runescape.wiki/w/Abilities#Damage_over_Time_abilities)
+    • *Examples:* <:deathskulls:1137809106640572583> <:bloat:1137809185753550929>
+
+⬥ **Other**
+    • These don't really fit into any of the other categories for one reason or another.
+    • *Examples:* None at the present time.
+
+.
+.img:https://img.pvme.io/images/TrdFFkD.png
+.
+> __**Basic Abilities**__
+.tag:Basics
+Magic basics are common use abilities with 2 purposes:
+⬥ Build adrenaline (+8%; or +9% with <:furyofthesmall:697808773917573233>)
+⬥ Deal Damage
+
+.
+⬥ __**Power Basics**__
+    • *Examples: <:necroauto:1137809137401602109> <:touchofdeath:1137809175980810380> <:soulsap:1137809140476031057>*
+
+⬥ __**Auxiliary Basics**__
+    • *Examples:* <:soulstrike:1137809142376058910> / <:soulstrike:1137809142376058910><:flankicon:841419289755385866> (Flanking perk increases damage at cost of stun/bind)
+
+⬥ __**Subpar Basics**__
+    • *Examples:* <:bloodsiphon:1137809187485782149>
+
+**__Sample Auxiliary Uses__**
+⬥ <:touchofdeath:1137809175980810380> to gain <:necrosis:1139452791878856805> → <:fingerofdeath:1137809115066937414>
+⬥ <:soulsap:1137809140476031057> to gain <:residualsoul:1139453152169558046> → <:volleyofsouls:1137809182364540989>
+⬥ <:soulstrike:1137809142376058910> Stuns and binds for 3s.
+
+.img:https://img.pvme.io/images/bacby5l.png
+.
+> __**Threshold Abilities**__
+.tag:thresholds
+.
+Whilst not labelled in-game as "thresholds", many Necromancy abilities fall into this category as they are stronger than basics but more taxing to use. These abilities have 2 purposes:
+⬥ Deal higher damage
+⬥ Sacrifice either adrenaline (-10-60%), stacks of Necrosis <:necrosis:1139452791878856805> or stacks of Residual Souls <:residualsoul:1139453152169558046>
+
+⬥ __**Power Thresholds:**__
+    • *Examples:* <:bloat:1137809185753550929> <:fingerofdeath:1137809115066937414> <:volleyofsouls:1137809182364540989>
+    • *Examples: <:deathguard90:1138809243143766118><:spec:537340400273195028>*
+
+⬥ __**Auxiliary Thresholds:**__
+    • *Examples:* <:spectralscythe:1137809145706319892> <:spectralscythe2:1137809149690916945> <:spectralscythe3:1137809152043925505> (Spectral Scythe variants)
+
+**__Sample Threshold Uses:__**
+    • Building 4 stacks of <:necrosis:1139452791878856805> → use <:touchofdeath:1137809175980810380> → use Special Attack <:spec:537340400273195028> whilst having the T90 Deathguard <:deathguard90:1138809243143766118> equipped
+
+
+.
+> __**Ultimate Abilities**__
+.tag:ultimates
+.
+Magic Ultimates deal maximum damage and or elevate other abilities. They typically have 1-3 purposes:
+⬥ Sacrifice 100% adrenaline
+⬥ Deal devastating damage
+⬥ Provide a longstanding buff
+
+⬥ __**Power Ultimates:**__
+    • *Examples:* <:deathskulls:1137809106640572583>
+
+⬥ __**Utility Ultimates:**__
+    • *Examples:* <:livingdeath:1137809132485890108>
+
+**__Sample Ultimate Uses:__**
+⬥ <:deathskulls:1137809106640572583> whilst wearing a <:igneouskalmor:1139200072438005851> Igneous Kal-Mor cape, greatly reduces the adren costs and increases damage dealt.
+⬥ <:livingdeath:1137809132485890108> is Necromancy's strongest ultimate ability and is a key components of Necromancy's dps.
+    • Typically, the player will prepare stacks of <:necrosis:1139452791878856805> and <:residualsoul:1139453152169558046>
+    • The player will then cast <:livingdeath:1137809132485890108> and execute a series of abilities to maximise damage output during the uptime.
+    • This is called a **Living Death (LD) Rotation.**
+    • One such Living Death Rotation will be covered later in this guide.
+
+
+
+**
+
+>>>
+> INCANTATIONS IMAGE
+>>>
+
+**
+
+
+.
+> **__Incantations__**
+.tag:incantations
+.
+⬥ Necromancy utilises a unique feature: <:incantations:1137999674842808410> **Incantations**. These vary greatly, but generally function as utilities rather than offensive abilities.
+⬥ Incantations use Necromancy-unique runes <:bonerune:1138808701029982319> <:spiritrune:1138808705362710680> <:miasmarune:1138808692087730206> <:fleshrune:1138808695703207967> which **cannot be stored in a rune pouch** <:runepouch:583430011868938283>
+⬥ Several Incantations also interact with other abilities when used correctly.
+⬥ Some Incantations are **toggleable**, meaning only one toggleable Incantation can be active at any one time.
+
+Below we will look at those abilities relevant to PVM:
+
+.
+⬥ <:lesserboneshield:1137809125590450276>/<:greaterboneshield:1137809118283976814> **Lesser/Greater Boneshield**
+    • Allows use of defensive abilities, normally only permitted when wearing a shield-type item.
+    • Costs Necromancy runes for each defensive ability used.
+    • Is toggleable.
+    • Scales up with your <:necromancy:1148995625896120460>Necromancy level.
+    • The greater variant increases the tier of shield "equipped", thus making defensive abilities more powerful (at the cost of more runes).
+    • Use case: Using <:devo:513190158728953857> without a shield equipped.
+
+.
+⬥ <:threadsoffate:1137809172335951933> **Threads of Fate**
+    • After casting on an enemy, for 6.6 seconds all single-target Necromancy attacks (<:necroauto:1137809137401602109> <:touchofdeath:1137809175980810380> <:fingerofdeath:1137809115066937414> <:bloat:1137809185753550929> <:soulsap:1137809140476031057> <:volleyofsouls:1137809182364540989>) will hit up to 4 more enemies within 4 tiles of the target.
+    • *Note: in essence, this is Necromancy's version of greater chain; however 3 abilities can be used in the duration.*
+    • Use case: When surrounded by at least 5 strong enemies <:threadsoffate:1137809172335951933> (generating 5-stack <:residualsoul:1139453152169558046>) → <:volleyofsouls:1137809182364540989> (using those 5 stacks to deal high damage) → <:soulsap:1137809140476031057> to gain another 5-stacks of <:residualsoul:1139453152169558046> → <:volleyofsouls:1137809182364540989> again. In this use case, all 3 abilities will hit all 5 enemies (provided they have not died already and are within 4 tiles of the targeted enemy).
+
+.
+⬥ <:lifetransfer:1137809128136388819> **Life Transfer**
+    • Extends the duration of your spirits by 20.4 seconds.
+    • In exchange, you are hurt by 50% of your Life Points.
+
+.
+⬥ <:invokedeath:1137809121983336548> **Invoke Death**
+    • After casting this, your next enemy attacked with a Necromancy ability within 6 seconds has the <:invokedeath:1137809121983336548> **Death Mark** debuff applied to them.
+    • When an enemy has the debuff active, they will be instakilled if their life points go below 20%.
+    • Use case: Let's assume we're about to fight General Graardor, who has 40,000 life points. If the player uses <:invokedeath:1137809121983336548> right before a fight with Bandos, then attacks them with <:necromancy:1148995625896120460>. When Graardor reaches <8,000 life points, he will instantly die.
+
+.
+⬥ <:darkness:1137809209782698024> **Darkness**
+    • Lasts for 12 minutes.
+    • 20% chance to dodge enemy attacks.
+    • This does **not** stack with Animate Dead <:animatedead:856635090453135382>
+    • Use case: General damage reduction and AFK methods.
+
+.
+⬥ <:splitsoul:1137809168368148490> **Split Soul**
+    • Lasts for 20.4 seconds.
+    • When praying <:soulsplit:615613924506599497>, 400% of the life points you would have gained is instead dealt to your target.
+    • This does **not** include damage from conjures.
+    • Use case: Moments where your chance of dying is low, and generally during the strongest part of your LD Rotation.
+
+.
+.img:https://img.pvme.io/images/c2myDux.png
+.
+> **__Weapons & Gear__**
+.tag:weapons&gear
+.
+⬥ In this section, we'll introduce the 2 weapons used for the rest of the guide.
+⬥ Necromancy weapon(s) have several key descriptors which describe its capabilities.
+⬥ We are assuming t80 weapons are used, as they are relatively easy to unlock via Kili's upgrades (requires kills in each of the four GWD1 bosses for the tank armour, or Nex for the power armour).
+
+*If you are familiar with this feel free to skip ahead.*
+
+**__Sample Preset Breakdown:__**
+⬥ **Death guard (T80)<:deathguard80:1138809249061929082> and Skull lantern (T80)<:skulllantern80:1138809247308709988>**
+    • Both require 80 Necromancy to wield.
+    • <:deathguard80:1138809249061929082> **Special Attack: "Death Grasp"**
+        ⬩ Costs 25% adrenaline and has a cooldown of 30 seconds.
+        ⬩ Stuns and binds the target for 4.8 seconds, dealing 405%-495% Necromancy damage.
+        ⬩ Also deals an additional 40% Necromancy damage for each <:necrosis:1139452791878856805> stack, consuming all of them (therefore, at the maximum 12 Necrosis stacks, the special attack deals up to 885%-975% Necromancy damage).
+
+.
+**__Armour & Other Gear__**
+⬥ Deathwarden Tank Armour (T80): <:wardentop80:1142784247543894056><:wardenlegs80:1142782596770713712><:wardenhood80:1142782592878387321><:wardenboots80:1142782587878776922><:wardengloves80:1142782591104204880>
+    • Power armour is preferred, but it is commonly agreed that T80 tank armour unlocks are far easier than T80 power armour unlocks for new PVMers.
+⬥ Any necklace/cape slot is okay.
+⬥ Wear a Ring of Vigour <:RoV:513201065877831680> if you don't have the passive unlocked.
+
+.
+**__Auras:__**
+⬥ <:mahj:643148943856762890> *Mahjarrat* provides +5% dmg
+⬥ <:invigaura:643505652865695767> *Supreme Invigorate* saves adren after using an ultimate
+⬥ <:vampaura:643505653079343144> *Vampyrism* provides +5% healing of any damage you deal
+
